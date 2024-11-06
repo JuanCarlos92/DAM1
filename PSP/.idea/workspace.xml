@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af73c2e7-8176-4dc6-a66a-baf01b1c3be9" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer8_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Libro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Serializacion/A12_CopiaFicheros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ADD/src/U1/Serializacion/A13_MoverFicheros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U1_U2/Carrera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U1_U2/Contador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U1_U2/Corredor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U1_U2/HiloContador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U1_U2/SincronizacionHilos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/DeserializarLista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/DeserializarLista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer10.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer11.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer2_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer2_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer7.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/Ejer7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/SerializarLista.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/out/production/ADD/U1/Ejercicios/SerializarLista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/DeserializarLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/DeserializarLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer10.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer11.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer12.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/Ejer7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/SerializarLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ADD/src/U1/Ejercicios/SerializarLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAM1_ClasesTemario/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAM1_ClasesTemario/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAM1_ClasesTemario/DAM1_ClasesTemario.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAM1_ClasesTemario/DAM1_ClasesTemario.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAM1_Ejemplos/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAM1_Ejemplos/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAM1_Ejercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DAM1_Ejercicios/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DAM1_Ejercicios/src/T5_FicheroJFrame/U5_02_LecturaFichero/LecturaFicheroTexto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DAM1_Ejercicios/src/T5_FicheroJFrame/U5_02_LecturaFichero/LecturaFicheroTexto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PSP/U1/Ejem1_abrirBlocknotas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PSP/U1/Ejem2_abrirBlocknotas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PSP/U1/Ejem3_Capturarproceso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PSP/U1/Ejem4_Redireccionar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PSP/U1/Ejem4simplificado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U1/Ejem1_abrirBlocknotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_U2/Ejem1_abrirBlocknotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U1/Ejem2_abrirBlocknotas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_U2/Ejem2_abrirBlocknotas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U1/Ejem3_Capturarproceso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_U2/Ejem3_Capturarproceso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U1/Ejem4_Redireccionar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_U2/Ejem4_Redireccionar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U1/Ejem4simplificado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_U2/Ejem4simplificado.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JuanCarlos92&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JuanCarlos92/DAM.git&quot;,
+    &quot;accountId&quot;: &quot;1e33eb5e-d94e-453b-a39c-a48b6dc0b2a5&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2n5zsonDUneh0z69nKrmWZoPsfq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Carrera.executor": "Run",
+    "Application.Ejem1_abrirBlocknotas.executor": "Run",
+    "Application.Ejem3_Capturarproceso.executor": "Run",
+    "Application.Ejem4_Redireccionar.executor": "Run",
+    "Application.Ejem4simplificado.executor": "Run",
+    "Application.SincronizacionHilos.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/juanc/Documents/GitHub/DAM/PSP",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af73c2e7-8176-4dc6-a66a-baf01b1c3be9" name="Changes" comment="" />
+      <created>1728277933510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728277933510</updated>
+      <workItem from="1728277934621" duration="83000" />
+      <workItem from="1728278021388" duration="2812000" />
+      <workItem from="1728280949301" duration="14000" />
+      <workItem from="1728880456458" duration="3928000" />
+      <workItem from="1728884765397" duration="3099000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1728278368816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728278368816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1728280865697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728280865697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
